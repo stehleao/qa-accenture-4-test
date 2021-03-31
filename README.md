@@ -1,10 +1,9 @@
 # :pushpin: Accademia Accenture 4.0 - Quality Assurance :pushpin:
-
+<br>
+<br>
 O programa de capacitação e desenvolvimento é uma realização da parceria entre Accenture e Gama Academy.
-
 <br>
 <br>
-
 ## Descrição do desafio :page_with_curl:
 
 Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Para tanto, deve-se levar em conta as seguintes orientações:
@@ -21,7 +20,7 @@ Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Par
 
 --------------------------------------------------------------------------------
 
-## Tecnologias utilizadas :wrench:
+<br>## Tecnologias utilizadas :wrench:
 
 :heavy_check_mark: <b>Java</b> <br>
 Linguagem de programação para desenvolvimento da aplicação <br>
@@ -39,20 +38,20 @@ Framework responsável por fazer a integração do código Java com a linguagem 
 
 ## Como utilizar :paperclip:
 
--Clonar o projeto
+- Clonar o projeto
 ```bash
 git clone https://github.com/stehleao/qa-accenture-4-test.git
 ```
 
--Entrar na pasta do projeto
+- Entrar na pasta do projeto
 ```bash
 cd qa-accenture-4-test
 ```
 
--Configurar o selenium em sua máquina
+- Configurar o selenium em sua máquina
 Fazer o download do Chrome Webdriver e colocar o arquivo descompactado dentro da pasta driver na raíz do projeto: <br>https://chromedriver.chromium.org/downloads</br>
 
-<br><b>Exemplo<b></br>
+<b>Exemplo</b></br>
 ```bash
 cd driver
 curl https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
