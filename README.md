@@ -2,6 +2,7 @@
 <br>
 O programa de capacitação e desenvolvimento é uma realização da parceria entre Accenture e Gama Academy.
 <br>
+<br>
 
 ## Descrição do desafio :page_with_curl:
 
