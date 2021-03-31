@@ -4,6 +4,7 @@
 O programa de capacitação e desenvolvimento é uma realização da parceria entre Accenture e Gama Academy.
 <br>
 <br>
+
 ## Descrição do desafio :page_with_curl:
 
 Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Para tanto, deve-se levar em conta as seguintes orientações:
@@ -20,7 +21,7 @@ Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Par
 
 --------------------------------------------------------------------------------
 
-<br>## Tecnologias utilizadas :wrench:
+## Tecnologias utilizadas :wrench:
 
 :heavy_check_mark: <b>Java</b> <br>
 Linguagem de programação para desenvolvimento da aplicação <br>
