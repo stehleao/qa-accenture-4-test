@@ -5,7 +5,7 @@ import io.cucumber.java.pt.*;
 import org.openqa.selenium.By;
 import static org.junit.Assert.assertEquals;
 
-public class Pages {
+public class Shared {
 
   @Dado("que estou na pagina do formulario {string}")
   public void que_estou_na_pagina_do_formulario(String string) {

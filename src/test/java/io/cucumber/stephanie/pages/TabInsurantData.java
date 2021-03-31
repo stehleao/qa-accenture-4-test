@@ -11,7 +11,8 @@ import org.openqa.selenium.support.ui.Select;
 public class TabInsurantData {
   
   @Quando("preencho os campos com os valores do seguro")
-  public void preencho_os_campos_com_os_valores_do_seguro(DataTable dataTable) {
+  public void preencho_os_campos_com_os_valores_do_seguro(DataTable dataTable) throws InterruptedException {
+    Thread.sleep(2000);
     Map<String,String> dataTableAsMap = dataTable.asMap(String.class, String.class);
 
     Settings.browser.findElement(By.id("firstname")).sendKeys(dataTableAsMap.get("firstname"));
@@ -54,7 +55,7 @@ public class TabInsurantData {
 
     Settings.browser.findElement(By.id("website")).sendKeys(dataTableAsMap.get("website"));
 
-  }
+  }  
 
   @Quando("clico no botao next de seguro")
   public void clico_no_botao_next_de_seguro() {
