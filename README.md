@@ -1,8 +1,6 @@
 # :pushpin: Accademia Accenture 4.0 - Quality Assurance :pushpin:
 <br>
-<br>
 O programa de capacitação e desenvolvimento é uma realização da parceria entre Accenture e Gama Academy.
-<br>
 <br>
 
 ## Descrição do desafio :page_with_curl:
@@ -38,6 +36,14 @@ Framework responsável por fazer a integração do código Java com a linguagem 
 --------------------------------------------------------------------------------
 
 ## Como utilizar :paperclip:
+
+### Pré requisitos :hammer:
+
+- Instalar o java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+- Instalar o JDK: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
+- Verificar se o JAVA-HOME está configurado em seu computador
+
+### Execução :wrench:
 
 - Clonar o projeto
 ```bash
