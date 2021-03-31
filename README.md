@@ -9,7 +9,7 @@ O programa de capacitação e desenvolvimento é uma realização da parceria en
 Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Para tanto, deve-se levar em conta as seguintes orientações:
 
 <ul>
-  <li>Entrar no site <http://sampleapp.tricentis.com/101/app.php></li>
+  <li>Entrar no site http://sampleapp.tricentis.com/101/app.php</li>
   <li>Preencher o formulário, aba “Enter Vehicle Data” e pressione next</li>
   <li>Preencher o formulário, aba “Enter Insurant Data” e pressione next</li>
   <li>Preencher o formulário, aba “Enter Product Data” e pressione next</li>
