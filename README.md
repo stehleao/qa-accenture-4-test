@@ -2,6 +2,9 @@
 
 O programa de capacitação e desenvolvimento é uma realização da parceria entre Accenture e Gama Academy.
 
+<br>
+<br>
+
 ## Descrição do desafio :page_with_curl:
 
 Criar um projeto em Selenium Webdrive (Java) e Cucumber usando Page Objects. Para tanto, deve-se levar em conta as seguintes orientações:
@@ -36,20 +39,20 @@ Framework responsável por fazer a integração do código Java com a linguagem 
 
 ## Como utilizar :paperclip:
 
-Clonar o projeto
+-Clonar o projeto
 ```bash
 git clone https://github.com/stehleao/qa-accenture-4-test.git
 ```
 
-Entrar na pasta do projeto
+-Entrar na pasta do projeto
 ```bash
 cd qa-accenture-4-test
 ```
 
-Configurar o selenium em sua máquina
+-Configurar o selenium em sua máquina
 Fazer o download do Chrome Webdriver e colocar o arquivo descompactado dentro da pasta driver na raíz do projeto: <br>https://chromedriver.chromium.org/downloads</br>
 
-<br>Exemplo</br>
+<br><b>Exemplo<b></br>
 ```bash
 cd driver
 curl https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
@@ -58,21 +61,22 @@ rm -rf chromedriver_linux64.zip
 cd ../driver
 ```
 
-Limpar e validar o Maven Unix
+- Limpar e validar o Maven Unix
 ```bash
 ./mvnw clean
 ```
 
-Limpar e validar o Maven Windows
+- Limpar e validar o Maven Windows
 ```bash
 ./mvnw.cmd clean
 ```
 
-Executando o teste no Unix
+- Executando o teste no Unix
 ```bash
 ./test.sh
 ```
-Executando o teste no Windows
+
+- Executando o teste no Windows
 ```bash
 test.bat
 ```
